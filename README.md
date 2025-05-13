@@ -5,6 +5,11 @@ Platform to gather information about all the Food Products
 
 Overall 3 days took to complete this project
 
+### UI
+
+Ui is very clean, smooth and responsive during transition. IT supports all devices with different browsers.
+
+This readme file is not lettting me upload the video so i am uploading the screenshots instead
 
 ## Screenshots
 
