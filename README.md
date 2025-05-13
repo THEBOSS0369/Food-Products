@@ -1,6 +1,11 @@
 # FOOD PRODUCTS
 Platform to gather information about all the Food Products
 
+## Time Taken
+
+Overall 3 days took to complete this project
+
+
 ## Screenshots
 
 ### Home Page
@@ -91,6 +96,3 @@ I chose a modular component-based architecture with:
 - Cross-browser testing (Chrome, Firefox, Safari)
 
 
-## Time Taken
-
-Overall 3 days took to complete this project
